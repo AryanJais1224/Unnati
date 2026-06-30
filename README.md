@@ -71,7 +71,7 @@ The overall architecture emphasizes reliability, fault tolerance, and horizontal
 <table>
   <tr>
     <td align="center">
-      <img width="712" alt="unnati1" src="https://github.com/user-attachments/assets/58a9a0fd-34b2-458f-89a6-38e49d7a54fb" />
+      <img width="350px" alt="unnati1" src="https://github.com/user-attachments/assets/58a9a0fd-34b2-458f-89a6-38e49d7a54fb" />
     </td>
   </tr>
 </table>
