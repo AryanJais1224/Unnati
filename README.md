@@ -36,6 +36,11 @@ Rather than writing directly to the database, validated payloads are immediately
 
 The overall architecture emphasizes reliability, fault tolerance, and horizontal scalability, enabling the synchronization layer to absorb sudden traffic spikes, tolerate unstable mobile connectivity, and maintain strict data consistency without sacrificing throughput or responsiveness.
 
+
+> **Project Walkthrough:** Watch the complete project walkthrough on YouTube, covering the entire application system architecture, engineering decisions and implementation details.
+>
+> **YouTube:** https://youtu.be/j2hl0phUU04
+
 ### Core Engineering Objectives
 
 - Build an offline-first synchronization platform resilient to intermittent mobile connectivity.
